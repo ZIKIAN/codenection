@@ -47,4 +47,4 @@ Provides environment description using AI
 [CZ is my BOSS](https://www.figma.com/design/qcAo5tFmCIpaTvQnv4YAFy/CodeNection?node-id=0-1&t=774Y8ArAgJNOKngH-1)
 
 # Presentation Video Link
-[Youtube]()
+[Youtube](https://youtu.be/LIcT0zRRjb0)
